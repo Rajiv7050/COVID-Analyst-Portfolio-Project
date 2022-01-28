@@ -1,1 +1,1 @@
-# COVID-Analyst-Portfolio-Project
+# COVID Analyst Portfolio Project
